@@ -1,3 +1,9 @@
-About computer:
+About computer(modified):
 	Computer is an electronic device which takes input from user, do computation and produce result according to input.
 It has very high speed and accuracy.
+It is reliable, versatile and give accurate results.
+
+
+
+
+Abhishek kumar
